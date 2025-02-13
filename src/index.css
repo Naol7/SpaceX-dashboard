@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Space+Mono&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Space+Mono&display=swap');
+@import 'tailwindcss/components';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom spinner animation */
+@keyframes rocket-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.animate-rocket-pulse {
+  animation: rocket-pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
