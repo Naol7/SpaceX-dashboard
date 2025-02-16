@@ -8,7 +8,7 @@
 
 ## 🌌 Project Overview
 
-Explore SpaceX's launch history with this modern dashboard that brings space missions to your browser. Track past launches, discover upcoming missions, and curate your favorite space expeditions with ease.
+This is a front-end web application that fetches and displays SpaceX launch data using the SpaceX API. Users can browse launches, search for specific missions, mark launches as favorites, and navigate through paginated results.
 
 **Core Functionality:**
 - 📅 Chronological launch timeline
