@@ -21,6 +21,7 @@ Explore SpaceX's launch history with this modern dashboard that brings space mis
 | Feature                | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
 | **Launch Timeline**    | Browse historical missions                     |
+| **Launch Details**     | get short description by clicking a launch. Wikipedia and youtube links provided for further details|
 | **Smart Filters**      | Filter by launch year                    |
 | **Favorites System**   | Bookmark missions with local storage persistence                            |
 | **Responsive Design**  | Optimized experience across mobile, tablet, and desktop                    |
@@ -54,8 +55,8 @@ cd SpaceX-dashboard
 npm install
 ```
 3. Start development server
-   ```bash
-   npm run dev
-   ```
+```bash
+ npm run dev
+ ```
 4. Open in browser
    Navigate to http://localhost:5173
