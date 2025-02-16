@@ -60,3 +60,7 @@ npm install
  ```
 4. Open in browser
    Navigate to http://localhost:5173
+
+**Troubleshooting:**
+- If styles break: `npm install -D tailwindcss@3.4.0`
+- If dependencies fail: `npm install --legacy-peer-deps`
